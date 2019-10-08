@@ -1,18 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8de16e5-19fb-4e1b-923d-20adccdcb209" name="Default Changelist" comment="" />
+    <list default="true" id="b8de16e5-19fb-4e1b-923d-20adccdcb209" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LightAndShadow2D/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LightAndShadow2D/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LightAndShadow2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LightAndShadow2D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Ground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Ground.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Light.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Light.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Render/LightweightRenderPipeline.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Render/LightweightRenderPipeline.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Beauty.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Beauty.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FieldOfView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FieldOfView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/MaskShader.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/MaskShader.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/MaskShader.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/MaskShader.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/UnLitShader.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/UnLitShader.shadergraph.meta" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FieldOfView.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/FieldOfViewEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Temp/Compiled-Custom-MyShader.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Temp/GeneratedFromSurface-Custom-MyShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Beauty.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/NewUnlitShader.shader" root0="FORCE_HIGHLIGHTING" />
@@ -24,15 +39,16 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/ColorLayer.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/FieldOfViewEditor.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FieldOfView.cs" />
         <option value="$PROJECT_DIR$/Assets/Shaders/Stencil Object.shader" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" />
         <option value="$PROJECT_DIR$/Assets/Shaders/NewUnlitShader.shader" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MaskMesh.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FieldOfView.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1RYAFAP5IS6Fmt7PE5Kweqiv1Gs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -85,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569833555249</updated>
       <workItem from="1569833567497" duration="208000" />
-      <workItem from="1569834382776" duration="20398000" />
+      <workItem from="1569834382776" duration="20421000" />
     </task>
     <servers />
   </component>
@@ -94,6 +110,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
