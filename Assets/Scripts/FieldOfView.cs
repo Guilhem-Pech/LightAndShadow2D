@@ -1,8 +1,5 @@
-﻿using System;
-using UnityEngine;
-using System.Collections;
+﻿using UnityEngine;
 using System.Collections.Generic;
-using UnityEngine.Experimental.PlayerLoop;
 
 public class FieldOfView : MonoBehaviour {
 
@@ -20,8 +17,7 @@ public class FieldOfView : MonoBehaviour {
 	private Mesh viewMesh;
 
 	private void Start() {
-		viewMesh = new Mesh ();
-		viewMesh.name = "View Mesh";
+		viewMesh = new Mesh {name = "View Mesh"};
 		viewMeshFilter.mesh = viewMesh;
 	}
 
@@ -113,12 +109,6 @@ public class FieldOfView : MonoBehaviour {
 		if (hit2D)
 			return new ViewCastInfo (true, hit2D.point, hit2D.distance, globalAngle);
 		return new ViewCastInfo (false, pos + dir2D * viewRadius, viewRadius, globalAngle);
-
-		/* if (Physics.Raycast (transform.position, dir, out hit, viewRadius, obstacleMask)) {
-			return new ViewCastInfo (true, hit.point, hit.distance, globalAngle);
-		} else {
-			return new ViewCastInfo (false, transform.position + dir * viewRadius, viewRadius, globalAngle);
-		} */
 	}
 
 

@@ -159,7 +159,7 @@ Material:
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _LightPosition: {r: -0.65, g: -2.27, b: -1, a: 0}
     - _Params2: {r: 0, g: 0, b: 0, a: 0}
-    - _Position: {r: 0, g: 0, b: 0, a: 0}
+    - _Position: {r: 1, g: 0, b: 0, a: 0}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
     - _ShadowMapParams: {r: 0, g: 0, b: 0, a: 0}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}

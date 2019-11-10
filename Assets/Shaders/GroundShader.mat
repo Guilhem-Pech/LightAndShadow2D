@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MaskShader
+  m_Name: GroundShader
   m_Shader: {fileID: -6465566751694194690, guid: ddff685541cc4a744925283bedff047f,
     type: 3}
   m_ShaderKeywords: _ENVIRONMENTREFLECTIONS_OFF
